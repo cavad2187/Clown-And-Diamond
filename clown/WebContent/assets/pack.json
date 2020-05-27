@@ -1,0 +1,27 @@
+{
+  "section1": {"files": [
+    {
+      "type": "animation",
+      "key": "animations",
+      "url": "assets/animations.json"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene1",
+      "url": "assets/scenes/Scene1.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "textures",
+      "url": "assets/atlas/textures.json",
+      "path": "assets/atlas"
+    }
+  ]},
+  "meta": {
+    "generated": "1550918638166",
+    "app": "Phaser Editor",
+    "url": "https://phasereditor2d.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2018"
+  }
+}
